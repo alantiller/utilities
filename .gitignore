@@ -1,0 +1,35 @@
+# Code specific files
+/vendor/
+/node_modules/
+.env
+.DS_Store
+*.log
+*.swp
+*.swo
+tmp/
+temp/
+cache/
+sessions/
+cookies/
+/public/.htaccess
+/public/index.php
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Composer related
+composer.lock
+
+# Ignore file uploads directory
+/public/uploads/
+
+# Ignore temporary files
+*.tmp
