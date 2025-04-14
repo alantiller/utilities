@@ -13,6 +13,7 @@ sessions/
 cookies/
 /public/.htaccess
 /public/index.php
+.phpunit.result.cache
 
 # IDE specific files
 .idea/
