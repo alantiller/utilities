@@ -21,7 +21,7 @@
     "autoload": {
 		"psr-4": {
 			"Alantiller\\": "src/",
-			"Alantiller\\Utilities\\Helpers": "src/Helpers"
+			"Alantiller\\Utilities\\Helpers\\": "src/Helpers"
 		}
 	},
     "autoload-dev": {
